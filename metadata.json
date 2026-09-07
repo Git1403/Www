@@ -1,0 +1,6 @@
+{
+  "name": "سامانه مدیریت و تحلیل پروژه‌ها و موانع",
+  "description": "داشبورد مدیریتی، پایش پیشرفت و تحلیل موانع اقدامات به تفکیک معاونت‌ها بر اساس داده‌های اکسل وزارت نفت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
